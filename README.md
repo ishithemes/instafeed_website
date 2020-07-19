@@ -2,7 +2,7 @@
 
 This is a simple way to showup instagram feeds on your website using the latest API from instagram. Due to recent API changes of instagram, a lot of people are suffering due to broken API. Hence this is an attempt to get instafeed on your website up again or set up instagram feeds on a brand new website :) 
 
-##Requirements 
+## Requirements 
 * A Facebook developer account, and an Instagram account with some media posted to it. 
 * A Facebook app linked to your Instagram account, and a token generated through that app. 
 
