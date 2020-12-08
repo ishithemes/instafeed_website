@@ -11,4 +11,5 @@ This is a simple way to showup instagram feeds on your website using the latest 
 * Create a Facebook app linked to Instagram, and add the instagram account as a test user. This account must be the one from which you want to show up feeds on your website. See [Managing User Tokens](https://www.youtube.com/watch?v=X2ndbJAnQKM) 
 * Copy the created access token and put it in the HTML file. 
 * All set. Now you will be able to see the feeds on your website. 
-* Do not worry if you are still not able to get it. There is a video tutorial that explains you these steps in action.
+
+_If you're unable to follow these steps, watch - https://www.youtube.com/watch?v=resyjrQhSFE_
